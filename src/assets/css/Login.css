@@ -1,0 +1,27 @@
+.divLogin{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.divLogin input{
+    width: 480px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.divLogin button{
+    width: 100%;
+    margin: 0;
+}
+
+.divLogin .divLogo{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+}
+
+.divLogin span{
+    color:yellow;
+    font-size: 10px;
+}

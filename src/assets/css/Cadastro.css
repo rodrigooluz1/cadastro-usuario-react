@@ -1,0 +1,27 @@
+.divCadastro{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.divCadastro input{
+    width: 480px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.divCadastro button{
+    width: 100%;
+    margin: 0;
+}
+
+.divLogo{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+}
+
+.divCadastro span{
+    color:yellow;
+    font-size: 10px;
+}

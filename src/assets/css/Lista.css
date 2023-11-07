@@ -1,0 +1,51 @@
+.divLista{
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.divLista table {
+    width: 80%;
+    border: 1px solid #000;
+    text-align: left;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+.divLista table tbody tr th{
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 4px;
+    font-size: 12px;
+    height: 20px;
+}
+
+.divLista table tbody tr td{
+    background-color: #ffffff;
+    color: #000;
+    font-weight: bold;
+    padding: 4px;
+    font-size: 13px;
+    height: 20px;
+    font-weight: normal;
+}
+
+.tdBotoes{
+    text-align: center;
+    width: 70px;
+}
+
+.divLista table tbody .trAlterna td{
+    background-color: #dedede;
+    color: #000000;
+}
+
+.divLogo{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 200px;
+    text-align: center;
+}
